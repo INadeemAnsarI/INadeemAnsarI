@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-Front end Developer with 1.7 years of experience in Information Technology and Services. Currently working as a UI Developer with eSequin Tech Lab, Aurangabad. Experience in developing websites using HTML, CSS, Bootstrap, JavaScript, etc. Responsible for designing and developing websites, applications for Desktop, Mobile and Tablet interface with cross-browser compatibility, cascading style sheet (CSS) with proper indent, SEO Semantic Coding, Load speed optimization. Having good knowledge of color theory, typography & layout design. Interested to learn new technologies as well.
+Front end Developer with 1.7 years of experience in Information Technology and Services. Experience in developing websites using HTML, CSS, Bootstrap, JavaScript, etc. Responsible for designing and developing websites, applications for Desktop, Mobile and Tablet interface with cross-browser compatibility, cascading style sheet (CSS) with proper indent, SEO Semantic Coding, Load speed optimization. Having good knowledge of color theory, typography & layout design. Interested to learn new technologies as well.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nadeem4995@gmail.com](mailto:nadeem4995@gmail.com)
